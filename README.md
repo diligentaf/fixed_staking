@@ -1,3 +1,5 @@
+# Input your private key && public key on .secret.key and change the file name to .secret
+
 - running npx hardhat accounts
 - hardhat.config.js -> add these lines:
 
